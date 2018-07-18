@@ -17,3 +17,5 @@ Firebase Hosting to host and serve your static assets.
 Firebase Cloud Messaging to send push notifications and display browser popup notifications.
 Some of these products need special configuration or need to be enabled using the Firebase console:
 
+Refer this Codelab to do Complete the Step by Step Codelab:
+<a href="http://bit.ly/firebase-ialimustafa" target="_blank">Click Here </a>
